@@ -4,4 +4,5 @@ Integrantes:
 - José Fuertes
 - Mónica Lucio
 - Roberto Sosa
+- Aiden De Castro
  
